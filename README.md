@@ -1,4 +1,4 @@
-## Hi there, I'm Kaio Mendes 👋
+# Hi there, I'm Kaio Mendes 👋
 
 - 🔭 I’m currently working on Data Science from home
 - 🌱 I’m currently learning new skills of machine learning and SQL 
