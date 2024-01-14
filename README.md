@@ -1,7 +1,7 @@
 # Hi there, I'm Kaio Mendes 👋
 
 - 🔭 I’m working on Data Science from home
-- 🌱 I’m also learning new skills of machine learning and SQL 
+- 🌱 I also have skills of machine learning and SQL 
 - 👯 I’m looking to collaborate on Freelas 
 - 😄 Pronouns: He/him
 
