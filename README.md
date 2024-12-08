@@ -1,8 +1,7 @@
 # Hi there, I'm Kaio Mendes 👋
 
-- 🔭 I’m working on Data Science from home
-- 🌱 I also have skills of machine learning and SQL 
-- 👯 I’m looking to collaborate on Freelas 
+- 🔭 I’m working at Banco do Brasil with COBOL, Python and Angular
+- 🌱 I also have skills of machine learning, SQL and Elixir
 - 😄 Pronouns: He/him
 
 <div style="display: inline_block"><br>
