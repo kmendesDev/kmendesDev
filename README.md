@@ -9,7 +9,8 @@
   <img align="center" alt="Kaio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kaio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kaio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  <img align="center" alt="Kaio-Python" height="30" width="40" src="https://icongr.am/devicon/erlang-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Kaio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg">
   <br>
 </div>
 
